@@ -1,6 +1,6 @@
 # AI-Job-Market-Intelligence-Adzuna
 
-# AI Job Market Intelligence & Hiring Trends Dashboard
+# AI Job Market Intelligence & Hiring Trends System Analysis
 
 ## Project Overview
 This project analyzes global job market trends using the **Adzuna Global Job Listings 2025 dataset**.  
